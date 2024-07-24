@@ -10,5 +10,5 @@ This Python script simulates a basic firewall by defining rules for allowed and 
 4- Decision: If the packet matches a rule, it's allowed; otherwise, it's blocked.
 
 ## Usage:
-1- Run the Python script.
+1- Run the Python script.<br>
 2- The script will continuously simulate network traffic and apply firewall rules.
